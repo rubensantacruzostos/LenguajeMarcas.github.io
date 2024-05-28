@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+    <channel id="LaSexta.TV">
+        <display-name>LaSexta.TV</display-name>
+    </channel>
+    <programme channel="LaSexta.TV" start="20240522020000 +0000" stop="20240522043000 +0000">
+        <title>Minutos musicales</title>
+        <desc>Emisión de videoclips y piezas musicales.</desc>
+          <category>Música</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP661411"/>
+        <country>España</country>
+    </programme>
+    <programme channel="LaSexta.TV" start="20240522020000 +0000" stop="20240522043000 +0000">
+        <title>Minutos musicales</title>
+        <desc>Emisión de videoclips y piezas musicales.</desc>
+        <category>Música</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP661411"/>
+        <country>España</country>
+
+    </programme>
+    <programme channel="LaSexta.TV" start="20240523020000 +0000" stop="20240523043000 +0000">
+        <title>Minutos musicales</title>
+        <desc>Emisión de videoclips y piezas musicales.</desc>
+        <category>Música</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP661411"/>
+        <country>España</country>
+
+    </programme>
+    <programme channel="LaSexta.TV" start="20240523020000 +0000" stop="20240523043000 +0000">
+        <title>Minutos musicales</title>
+        <desc>Emisión de videoclips y piezas musicales.</desc>
+        <category>Música</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP661411"/>
+        <country>España</country>
+    </programme>
+    <programme channel="LaSexta.TV" start="20240524020000 +0000" stop="20240524043000 +0000">
+        <title>Minutos musicales</title>
+        <desc>Emisión de videoclips y piezas musicales.</desc>
+        <category>Música</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP661411"/>
+        <country>España</country>
+    </programme>
+</tv>
+
